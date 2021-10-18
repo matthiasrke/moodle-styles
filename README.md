@@ -1,4 +1,4 @@
-# Moodle styles
+# Moodle Styles
 
 ## Styles for Teachers
 As a teacher you can add CSS (not SCSS with $variables) code to your Moodle course. This is only possible if you change your text editor to *Plain text area* under *Preferences / Editor preferences*. The standard Atto editor will otherwise remove the CSS code.
