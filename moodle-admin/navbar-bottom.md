@@ -7,7 +7,7 @@ Tested in Moodle 3.9, 3.10 and 3.11
 
 ![navbar-bottom](screenshots/navbar-bottom.png)
 
-```
+``` HTML
 <nav class="navbar navbar-light bg-light navbar-expand fixed-bottom d-lg-none">
     <ul class="navbar-nav w-100 justify-content-around">
         <li class="nav-item icon-no-margin"><a href="/?redirect=0" class="nav-link"><i class="icon fa fa-home text-dark"

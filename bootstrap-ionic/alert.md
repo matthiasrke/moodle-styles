@@ -9,7 +9,7 @@
 ![alert-app](screenshots/alert-app.png)
 ![alert-app-dark](screenshots/alert-app-dark.png)
 
-```
+``` HTML
 <div class="alert alert-primary" role="alert">
     <ion-text color="dark">This is a primary alert—check it out!</ion-text>
 </div>

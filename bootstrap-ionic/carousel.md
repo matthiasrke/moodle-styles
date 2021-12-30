@@ -8,7 +8,7 @@
 ### Moodle App
 ![carousel-app](screenshots/carousel-app.png)
 
-```
+``` HTML
 <div id="carouselExampleIndicators" class="carousel slide pointer-event" data-ride="carousel" data-interval="false">
     <ol class="carousel-indicators ion-hide">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

@@ -3,7 +3,7 @@ You can use this code, for example, to adjust the background in a breakout room 
 
 Tested in Moodle 3.9, 3.10 and 3.11
 
-```
+``` CSS
 <style>
 body,
 #nav-drawer {

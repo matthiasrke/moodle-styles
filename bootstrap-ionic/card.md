@@ -11,7 +11,7 @@
 ![card-app](screenshots/card-app.png)
 ![card-app-dark](screenshots/card-app-dark.png)
 
-```
+``` HTML
 <ion-card class="card mb-3" style="max-width: 18rem;">
     <ion-card-header class="card-header">Header</ion-card-header>
     <img src="..." alt="..." role="presentation" class="card-img-top">
@@ -30,7 +30,7 @@
 ![cards-app](screenshots/cards-app.png)
 ![cards-app-dark](screenshots/cards-app-dark.png)
 
-```
+``` HTML
 <ion-card color="primary" class="card text-white bg-primary mb-3" style="max-width: 18rem;">
     <ion-card-header class="card-header">
         <ion-text color="light">Header</ion-text>

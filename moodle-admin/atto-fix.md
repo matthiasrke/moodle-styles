@@ -1,7 +1,7 @@
 # Atto fix
 Tested in Moodle 3.9, 3.10 and 3.11
 
-```
+``` SCSS
 // Atto editor fix for Chrome.
 .editor_atto_content p,
 .editor_atto_content span,

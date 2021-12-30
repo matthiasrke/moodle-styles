@@ -5,7 +5,7 @@
 ### Browser
 ![stretched-link](screenshots/stretched-link-browser.png)
 
-```
+``` HTML
 <div class="card shadow-sm m-1" style="width: 18rem;">
     <img class="card-img-top" src="..." alt="...">
     <div class="card-body">

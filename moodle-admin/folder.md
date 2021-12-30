@@ -7,8 +7,8 @@ Tested in Moodle 3.9, 3.10 and 3.11
 ### After
 ![folder-browser-after](screenshots/folder-browser-after.png) 
 
-``` 
-// Folder
+``` SCSS
+// Folder.
 .fp-filename-icon .icon {
     font-size: 24px;
     height: 24px;
