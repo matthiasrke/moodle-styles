@@ -13,6 +13,7 @@ As an admin you can add SCSS code to your theme, if you want to style the whole 
 - [Atto fix](moodle-admin/atto-fix.md)
 - [Folder](moodle-admin/folder.md)
 - [Navbar bottom](moodle-admin/navbar-bottom.md)
+- [Logo](moodle-admin/logo.md)
 
 ## Bootstrap
 Bootstrap classes can be used to easily style your content in Moodle. Look at the [documentation on Bootstrap](https://getbootstrap.com/docs/4.6/components/alerts/). Some modified examples are shown here.
