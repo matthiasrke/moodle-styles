@@ -1,5 +1,5 @@
 # Logo
-It is not possible to upload svg files as logo in Moodle. But you can replace the logo text with a svg logo and also show an icon on small screens using CSS. Upload the files to a server or the Moodle home site and add the URLs of the files.
+It is not possible to upload svg files as logo in Moodle. But you can replace the logo text with a svg logo and also show an icon on small screens using CSS. Upload the files to a server or the Moodle home site and add the URLs of the files to the code below.
 
 ## Moodle 3.11
 
